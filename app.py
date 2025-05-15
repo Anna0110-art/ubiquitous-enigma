@@ -468,5 +468,3 @@ with tab4:
         st.warning("Please set up your profile in the Profile tab to unlock and view trophies.")
     else:
         show_trophies_tab(profile)
-
-Add streamlit app
